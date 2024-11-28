@@ -1,4 +1,4 @@
-# AIPARKER
+# AIParker
 ![cover.jpg](./images/cover.jpg)
 입차 부터 출차까지 **한번에!**
 온디바이스 AI 기반 주차장 관제 서비스 **AIParker**
@@ -6,9 +6,9 @@
 
 <br>
 
-## AIPARKER 소개
+## AIParker 소개
 ![intro.jpg](./images/intro.jpg)
-AIPARKER는 온디바이스 AI를 활용한 주차장 관제 시스템입니다.
+AIParker는 온디바이스 AI를 활용한 주차장 관제 시스템입니다.
 
 <br>
 
